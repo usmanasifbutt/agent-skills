@@ -11,6 +11,11 @@
       "title": "Frontend",
       "description": "Standards for building the production React frontends.",
       "skills": ["production-react-engineering"]
+    },
+    {
+      "title": "Infrastructure & DevOps",
+      "description": "Provisioning cloud infrastructure and delivering software to it.",
+      "skills": ["production-infrastructure-devops"]
     }
   ]
 }
