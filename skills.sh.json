@@ -16,6 +16,11 @@
       "title": "Infrastructure & DevOps",
       "description": "Provisioning cloud infrastructure and delivering software to it.",
       "skills": ["production-infrastructure-devops"]
+    },
+    {
+      "title": "Testing",
+      "description": "Writing, organizing, and verifying tests across the stack.",
+      "skills": ["production-testing"]
     }
   ]
 }
