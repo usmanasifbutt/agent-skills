@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.skills.sh/schema/skills.sh.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Backend",
+      "description": "Standards and workflows for building Django/DRF backend services.",
+      "skills": ["django-backend-engineering", "production-safe-django-migrations"]
+    },
+    {
+      "title": "Frontend",
+      "description": "Standards for building the production React frontends.",
+      "skills": ["production-react-engineering"]
+    }
+  ]
+}
