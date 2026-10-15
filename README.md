@@ -16,6 +16,16 @@ optional `references/` for progressive disclosure.
 | [`production-infrastructure-devops`](skills/production-infrastructure-devops/SKILL.md) | Running production infrastructure and delivery — Terraform (versioned modules consumed by PR-automated live configs), AWS networking/VPC/EKS/IAM, Kubernetes via Helm + Helmfile, GitOps with ArgoCD, managed data services wired in via an instance→inventory→attachment pattern, secrets via a parameter store + External Secrets, observability & DR, plus multi-stage Docker images, cached CI/CD, content-addressed image tags, GitOps rolling deploys, and revert-based rollback. |
 | [`production-testing`](skills/production-testing/SKILL.md) | Writing and verifying tests — pytest + DRF (real-DB unit/integration/API tests, factories/fixtures, boundary-only mocking, snapshots, coverage) and Jest + React Testing Library (provider-wrapped renders, restorable config mocks), an E2E suite with layered page objects and DB-backed flakiness quarantine, contract & performance testing, when-to-mock guidance, and a mandatory run→report-bug→rerun verification loop. |
 
+## Get them on Agensi
+
+All five skills are also listed on [Agensi](https://www.agensi.io/creators/usman-asif), free to download:
+
+[![Django Backend Engineering Standards on Agensi](https://img.shields.io/badge/Agensi-Django%20Backend%20Engineering%20Standards-1f6feb)](https://www.agensi.io/skills/django-backend-engineering-standards)  
+[![Zero-Downtime Django Migrations on Agensi](https://img.shields.io/badge/Agensi-Zero--Downtime%20Django%20Migrations-1f6feb)](https://www.agensi.io/skills/zero-downtime-django-migrations)  
+[![Production React Engineering on Agensi](https://img.shields.io/badge/Agensi-Production%20React%20Engineering-1f6feb)](https://www.agensi.io/skills/production-react-engineering)  
+[![Production Infrastructure & DevOps on Agensi](https://img.shields.io/badge/Agensi-Production%20Infrastructure%20%26%20DevOps-1f6feb)](https://www.agensi.io/skills/production-infrastructure-devops)  
+[![Production Testing for Django and React on Agensi](https://img.shields.io/badge/Agensi-Production%20Testing%20for%20Django%20and%20React-1f6feb)](https://www.agensi.io/skills/production-testing-for-django-and-react)
+
 ## Install
 
 Using the [`skills` CLI](https://github.com/vercel-labs/skills):
